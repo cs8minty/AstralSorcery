@@ -1,4 +1,4 @@
-itemGroup.astralsorcery=Astral Sorcery
+itemGroup.astralsorcery=아스트랄 소서리
 itemGroup.astralsorcery.papers=[AS] 별자리 종이
 itemGroup.astralsorcery.crystals=[AS] 동조 크리스탈
 
@@ -13,7 +13,7 @@ jei.category.altar.trait=영롱한 제단
 
 jei.additional_info.starlight=+ 별빛
 
-astralsorcery.config.title.overview=Astral Sorcery Configuration
+astralsorcery.config.title.overview=아스트랄 소서리 설정
 config.astralsorcery.category.astralsorcery=AstralSorcery
 config.astralsorcery.category.astralsorcery.tooltip=General Configuration
 config.astralsorcery.category.amulet_enchantments=Amulet Enchantments
@@ -59,7 +59,7 @@ advancements.astralsorcery.perk_level_small.title=시작이다
 advancements.astralsorcery.perk_level_small.desc=당신의 별빛을 레벨 10으로 성장하세요.
 advancements.astralsorcery.rock_crystals.title=이건 얼마의 값어치가 있어?
 advancements.astralsorcery.rock_crystals.desc=락 크리스탈을 모으세요.
-advancements.astralsorcery.root.title=Astral Sorcery
+advancements.astralsorcery.root.title=아스트랄 소서리
 advancements.astralsorcery.root.desc=빛을 따라라
 
 potion.potency.1=II
@@ -152,15 +152,15 @@ astralsorcery.journal.constellation.dst.major=밝은
 astralsorcery.journal.constellation.dst.weak=약한
 astralsorcery.journal.constellation.dst.minor=희미한
 
-research.SHRINES.name=고대의 성지
-astralsorcery.journal.SHRINES.1.text=월드 전역에 산재해 있는 고대의 성지는 긴 과거의 문명으로 부터 대리석으로 지어졌습니다. 정교한 구조물을 특징으로 하는 가장 인상적인 성지들 중 일부는 높은 언덕과 산꼭대기에 위치해 있고, 작은 성지는 사막의 모래 아래에서 파냈다.<NL>처음에는 별로 특별한 것 같지 않았지만, 이것들 중 많은 수가 오래되고 신성한 보물을 가지고 있다고 한다. 그러나 전설과는 달리 몇 개의 오래된 상자와 이상한 떠있는 크리스탈의 이야기만이 발견되었을 뿐이다.
+research.SHRINES.name=고대의 성소
+astralsorcery.journal.SHRINES.1.text=월드 전역에 산재해 있는 고대의 성소는 긴 과거의 문명으로 부터 대리석으로 지어졌습니다. 정교한 구조물을 특징으로 하는 가장 인상적인 성소들 중 일부는 높은 언덕과 산꼭대기에 위치해 있고, 작은 성소는 사막의 모래 아래에서 파냈다.<NL>처음에는 별로 특별한 것 같지 않았지만, 이것들 중 많은 수가 오래되고 신성한 보물을 가지고 있다고 한다. 그러나 전설과는 달리 몇 개의 오래된 상자와 이상한 떠있는 크리스탈의 이야기만이 발견되었을 뿐이다.
 
 astralsorcery.journal.SHRINES.2.text=떠있는 크리스탈들은 꽤 기괴하다. 이것은 섬뜩하고 매혹적인 방법으로 깜박거리며 희미한 별빛을 발산하는 것으로 보인다.<NL>이 크리스탈들이 인공적이라는 것에는 의심의 여지가 거의 없다. 이것의 진짜 시대와 기원은 사실상 밝히기 불가능하지만, 약간의 관찰 후에 크리스탈 에너지는 별들과 정렬되어 있는 것처럼 보인다.
 
-astralsorcery.journal.SHRINES.3.text=아무리 작은 조각이라도 가장 파괴적인 방법으로도 이 성지의 크리스탈에서 깍아 낼 수는 없다.<NL>이 크리스탈들의 행동도 이상해 보인다. 그것이 발산하는 빛은 근처에 있는 어떤 물체에 반응으로 점점 희미해지고 흐르는 것처럼 보인다, 마치 물처럼. §3제작대를 가까이 두면 뭔가 흥미로운 결과가 나올까?§r
+astralsorcery.journal.SHRINES.3.text=아무리 작은 조각이라도 가장 파괴적인 방법으로도 이 성소의 크리스탈에서 깍아 낼 수는 없다.<NL>이 크리스탈들의 행동도 이상해 보인다. 그것이 발산하는 빛은 근처에 있는 어떤 물체에 반응으로 점점 희미해지고 흐르는 것처럼 보인다, 마치 물처럼. §3제작대를 가까이 두면 뭔가 흥미로운 결과가 나올까?§r
 
 research.CPAPER.name=별자리 종이
-astralsorcery.journal.CPAPER.1.text=땅에 흩어져 있는 성지에서 발견된 상자 안에서 탐험가들은 가끔 빈 두루마리를 발견한다. 이 두루마리 중 하나를 상자에서 꺼내면, 밤하늘에 보이는 별들의 일부를 닮은 기묘한 그림과 함께 상단에 걸쳐 이름이 나타나게 된다.<NL>이것들을 여러개 수집한 후, 각각의 두루마리마다 다른 별들의 집합을 보여주는 것으로 보이지만, 결국 그것은 백지로 머물기 시작한다.
+astralsorcery.journal.CPAPER.1.text=땅에 흩어져 있는 성소에서 발견된 상자 안에서 탐험가들은 가끔 빈 두루마리를 발견한다. 이 두루마리 중 하나를 상자에서 꺼내면, 밤하늘에 보이는 별들의 일부를 닮은 기묘한 그림과 함께 상단에 걸쳐 이름이 나타나게 된다.<NL>이것들을 여러개 수집한 후, 각각의 두루마리마다 다른 별들의 집합을 보여주는 것으로 보이지만, 결국 그것은 백지로 머물기 시작한다.
 
 astralsorcery.journal.CPAPER.3.text=추가 조사에서는, 이미 그려진 도표나 읽은 사람의 인벤토리에 나타나지 않는 방식으로 작성되어 마법에 걸린 것처럼 보인다. 지금으로서는 어떤 다른 용도가 없기 때문에 이 백지를 다른 지나가는 학자들에게 남겨두는 것이 현명할 것 같다. <NL>편리한 접근과 정리를 위해 별의 책 마지막 몇 페이지 사이에 종이를 제출할 수 있다. 정리된 종이들은 별의 책을 열어 Shift를 눌러 회수할 수 있다.
 
@@ -175,14 +175,14 @@ astralsorcery.journal.ORES.1.text=§7§n락 크리스탈 광석:§r 월드의 �
 astralsorcery.journal.ORES.2.text=지하에서 이 광석을 탐지하는 것은 광석들간의 거리가 멀고 거의 한개의 광맥을 형성하기 때문에 헛된 노력인 것 같다. 이 크리스탈들은 기반암 근처에 있음에도 불구하고 별빛을 끌어들이는 것으로 알려져 있다. 아마도 광석의 탐지를 돕기 위해 별빛과 공명하는 도구가 있을 것이다.<NL>§1§n아쿠아마린 암석:§r 물의 연속적인 흐름과 파편화된 락 크리스탈 위로 별빛이 비치는 이 작고 연약한 보석들은 강바닥과 해변의 모래 속에서 형성된다. 보통 이것들은 모래 조각에 묻혀 있는 지표면 가까이에서 발견된다.
 
 research.ALTAR1.name=루미너스 제작대
-astralsorcery.journal.ALTAR1.1.text=성지의 크리스탈에서 발산하는 별빛과 상호작용하기 위해 일반 제작대를 사용하면서, 별빛을 모으는 방법 때문에 "크리스탈 수집가"로 이름 붙였으나, 비효율적인 것 같다. 그 제작대는 수정에서 나오는 별빛을 소량만 담을 수 있다. 그뿐만 아니라 제작대는 크리스탈이나 수집된 별빛이 목적에 비효율적인 나무로 만든것 때문에 그 안에서 새어나온다. 
+astralsorcery.journal.ALTAR1.1.text=성소의 크리스탈에서 발산하는 별빛과 상호작용하기 위해 일반 제작대를 사용하면서, 별빛을 모으는 방법 때문에 "크리스탈 수집가"로 이름 붙였으나, 비효율적인 것 같다. 그 제작대는 수정에서 나오는 별빛을 소량만 담을 수 있다. 그뿐만 아니라 제작대는 크리스탈이나 수집된 별빛이 목적에 비효율적인 나무로 만든것 때문에 그 안에서 새어나온다. 
 astralsorcery.journal.ALTAR1.2.text=루미너스 제작대는 가장 순수한 대리석으로 만들어짐으로써 두 가지 문제를 완벽히 해결한다. 이것은 제작대보다 훨씬 많은 양의 별빛을 흡수하고 유지할 수 있다. 또한 내부에 자체 별빛을 담을 공간이 내장되어 있기 때문에 별빛을 수집하기 위해 콜렉터 크리스탈과의 연결이 전혀 필요 하지 않다.
 
 astralsorcery.journal.ALTAR1.4.text=그러나 루미너스 제작대에도 단점은 있다. 첫째, 별빛을 모으기 위해서는 지상의 어딘가에 하늘을 보기에 방해받지 않게 배치해야 한다. 이것의 수집 과정 또한 아무리 맑은 하늘이라도 변덕스러운 것처럼 보인다.<NL>제작대를 하늘에 높이 올려놓으면 별빛의 대기 간섭이 해수면의 2배 높이 에서 완전히 사라지는 것처럼 보여 더 많은 별빛을 수집할 수 있다. 이것은 또한 밤에 훨씬 더 많은 별빛을 모은다. 제작대의 현재 별빛 저장고는 제작칸 아래에 있다.
 astralsorcery.journal.ALTAR1.5.text=루미너스 제작대로 제작하기 위해서는 제작 재료를 넣은 후 공명의 지팡이로 제작대를 우클릭 해야 한다. 물건이 다 만들어지면, 그 물건은 테이블에서 꺼내질 것이다.<NL>제작대에 의해 수집되는 별빛의 양은 별빛이 전혀 없는 것부터 가득 채우거나 심지어 그 이상에 이르기까지 월드 내 위치마다 크게 다르다.
 
 research.HAND_TELESCOPE.name=망원경
-astralsorcery.journal.HAND_TELESCOPE.1.text=밤하늘이 끊임없이 움직이고 있음에도 불구하고, 일정한 반복적인 패턴과 형상이 정기적으로 나타난다. 이러한 많은 모양들은 폐허가 된 성지에서 발견된 별자리 종이의 무늬와 매우 흡사하다.<NL> 아직 아무도 그것의 중요성을 확신하지 못하지만, 그러한 별자리들의 모양은 옛날의 관찰자들이 그것들을 아주 자세하게 표시할 수 있을 정도로 충분히 중요했다.
+astralsorcery.journal.HAND_TELESCOPE.1.text=밤하늘이 끊임없이 움직이고 있음에도 불구하고, 일정한 반복적인 패턴과 형상이 정기적으로 나타난다. 이러한 많은 모양들은 폐허가 된 성소에서 발견된 별자리 종이의 무늬와 매우 흡사하다.<NL> 아직 아무도 그것의 중요성을 확신하지 못하지만, 그러한 별자리들의 모양은 옛날의 관찰자들이 그것들을 아주 자세하게 표시할 수 있을 정도로 충분히 중요했다.
 
 astralsorcery.journal.HAND_TELESCOPE.4.text=다소 가장 기본적인 장치임에도 불구하고 망원경은 밤하늘을 조사하는 과정에 먼 곳을 살필 수 있다. <NL>별자리를 찾아 추적하기 위해서는 밤하늘의 맑은 경치가 절대적으로 필요하다. 또한, 별자리 종이에서 적절한 별자리가 발견되어야 된다. <NL>일단 가능한 패턴이 발견되면, 망원경의 시야는 Shift 키를 눌러 고정할 수 있다. 그런 다음 좌클릭을 사용하여 별들 사이에 조심스럽게 선을 그으면 별들의 패턴을 추적할 수 있다.
 
@@ -203,7 +203,7 @@ astralsorcery.journal.CRYSTAL_GROWTH.1.text=이 이상하고, 차가운 하늘�
 astralsorcery.journal.CRYSTAL_GROWTH.2.text=크리스탈들은 자라날 수 있는 최대 크기를 가지고 있는 것 같다. 완전히 자란 크리스탈이 계속 액체 별빛에 잠길 경우 어떤 일이 일어낮리, 그리고 그 순도에 어떤 의미가 있을지 궁금하다.
 
 research.MARBLETYPES.name=대리석
-astralsorcery.journal.MARBLETYPES.1.text=지하에서 채굴하는 동안 가끔 깨끗하고 조금 반사되는 다양한 대리석을 발견할 수 있다. 고대 성지들도 전부 이 대리석으로 지어졌으며, 그 반사능력은 별빛과 좋은 방식으로 상호작용하는 것 같다.<NL>만약 고대 건축가들이 별빛에 민감한 구조물에서 이 대리석의 중요성을 인식했다면, 다른 원천에서 나온 덜 순수한 대리석도 같은 결과를 볼 것 같지는 않다. 대리석으로 채널을 옮기는 것은 그것이 별빛 에너지를 향하는 길을 바꾸는 것처럼 보인다.
+astralsorcery.journal.MARBLETYPES.1.text=지하에서 채굴하는 동안 가끔 깨끗하고 조금 반사되는 다양한 대리석을 발견할 수 있다. 고대 성소들도 전부 이 대리석으로 지어졌으며, 그 반사능력은 별빛과 좋은 방식으로 상호작용하는 것 같다.<NL>만약 고대 건축가들이 별빛에 민감한 구조물에서 이 대리석의 중요성을 인식했다면, 다른 원천에서 나온 덜 순수한 대리석도 같은 결과를 볼 것 같지는 않다. 대리석으로 채널을 옮기는 것은 그것이 별빛 에너지를 향하는 길을 바꾸는 것처럼 보인다.
 
 research.SOOTYMARBLE.name=그을린 대리석
 astralsorcery.journal.SOOTYMARBLE.1.text=대리석의 겉면을 석탄과 같이 매우 어두운 재질로 코팅하면 타고난 반사적 특성이 강한 흡수적 특성으로 바뀌게 된다. 그을린 대리석은 낮에는 열을 가하여 햇빛을 모으고 밤새 방출한다. 이 대리석은 열을 내뿜는 태양 에너지가 근처의 별빛의 효과를 향상시키는 것처럼 보이기 때문에 후에, 흰 대리석만큼 유용하다는 것을 증명할 수 있을 것이다.
@@ -220,12 +220,12 @@ astralsorcery.journal.WELL.3.text=라이트웰을 사용하기 위해서는 별�
 research.INFUSED_WOOD.name=주입된 나무
 astralsorcery.journal.INFUSED_WOOD.1.text=재료에 액체 별빛을 주입하면 힘이 생기기 때문에 강화된 나무의 다재다능함은 건축과 제작에 큰 가치를 갖게 될 것이다.<NL>유기물이기 때문에 액체 별빛에 담궈 놔두는 것은 크리스탈과는 다른 흡수 패턴을 가지고 있는 것처럼 보이지만, 최종 결과는 똑같다: 별빛이 완전히 분포되어 있는 것은 아닐지라도 나무 속으로 완전히 빨려 들어간다. 이것은 추후에 좀 더 많은 조사가 필요할 수 있지만, 현재로서는 당신의 필요에 충분히 부합한다.
 
-research.ILLUM_POWDER.name=조광 가루
+research.ILLUM_POWDER.name=조명 가루
 astralsorcery.journal.ILLUM_POWDER.1.text=발광석과 아쿠아마린은 서로 가까이 있을 때 이상한 반응을 보인다. 작은 불꽃 같은 스파크가 사이를 빠르게 깜빡인다. 이 스파크들은 빠져나가기 전에 근원으로부터 꽤 멀리 흩어질 수 있다. 아쿠아마린을 가루로 부순 후 발광석 가루와 섞으면 작은 빛나는 가루 더미가 생겨 주변의 공간을 비춘다. 이것은 실수로 제거하기가 더 어렵고 다른 블록으로 빛을 가려야 하기 때문에 일반적으로 사용되는 횃불에 대한 개선된 대안이다.
 
 research.NOC_POWDER.name=어둠의 가루
-astralsorcery.journal.NOC_POWDER.1.text=밤은 많은 위험을 내포하고 악의적인 의도를 가진 생명체를 끝없이 불러온다. 그러한 괴물들은 종종 그 자체엔 흥미롭지 않지만, 그들이 가지고 다니는 것들에 대게 훨씬 더 관심이 간다.<NL>불행하게도, 그러한 생물들은 낮을 완전히 피하거나, 낮은 빛 아래서 친근하게 행동을 한다. 조광 가루는 첨가물로 충분히 어두워지면 이 적대적인 괴물들이 생성되도록 장려되는데 사용될 수 있다.
-astralsorcery.journal.NOC_POWDER.3.text=블록을 마우스 오른쪽 클릭하여 이 어둠의 영역을 몇 초 동안 만들 수 있지만, 그러한 영역을 가까이 만드는 것은 좋은 생각이 아닐 수 있다. 이 가루는, 마치 조광 가루와 같이, 어디든 어둠을 만들어 내기 위해 던질 수 있다.<NL>가루로 만드는 농축 효과 때문에 너무 가까이 두는 것은 효과를 최소화 시킨다.
+astralsorcery.journal.NOC_POWDER.1.text=밤은 많은 위험을 내포하고 악의적인 의도를 가진 생명체를 끝없이 불러온다. 그러한 괴물들은 종종 그 자체엔 흥미롭지 않지만, 그들이 가지고 다니는 것들에 대게 훨씬 더 관심이 간다.<NL>불행하게도, 그러한 생물들은 낮을 완전히 피하거나, 낮은 빛 아래서 친근하게 행동을 한다. 조명 가루는 첨가물로 충분히 어두워지면 이 적대적인 괴물들이 생성되도록 장려되는데 사용될 수 있다.
+astralsorcery.journal.NOC_POWDER.3.text=블록을 마우스 오른쪽 클릭하여 이 어둠의 영역을 몇 초 동안 만들 수 있지만, 그러한 영역을 가까이 만드는 것은 좋은 생각이 아닐 수 있다. 이 가루는, 마치 조명 가루와 같이, 어디든 어둠을 만들어 내기 위해 던질 수 있다.<NL>가루로 만드는 농축 효과 때문에 너무 가까이 두는 것은 효과를 최소화 시킨다.
 
 research.SKY_RESO.name=포식 공명기
 astralsorcery.journal.SKY_RESO.1.text=육안으로 하늘을 올려다봐서 해당 지역에서 방출되는 별빛의 크기를 분별하는 것은 거의 불가능하다. 그러나 별들이 보내는 빛이 월드의 위치에 따라 다르다는 것은 루미너스 제작대의 저장소에 기초해 경험적 증거가 있다; 한 별의 빛은 다른 별들과 겹쳐 그것이 힘을 증폭시키거나, 아니면 그냥 완전히 사라지게 할 수 있다.<NL>별빛에 의존하는 제단이나 다른 구조물들은 증폭된 별빛 지역에서 더 큰 용량으로 수행할 수 있다.
@@ -241,9 +241,9 @@ astralsorcery.journal.KNOWLEDGE_SHARE.1.text=새로운 지식을 얻는 것은 �
 research.QUICK_CHARGE.name=가지런한 충전
 astralsorcery.journal.QUICK_CHARGE.1.text=별빛의 효과와 패턴에 대해 더 많이 알게 되는 동안, 끊임없이 나타나는 별빛의 물결은 낮과 밤의 흐름 동안 점점 더 감지될 수 있게 된다.<NL>현재의 형태로 볼 때, 청백색 에너지는 채널링을 위해 작은 막대기로 충분히 강력하지만, 이 에너지를 전달하는 동안 단일의 별자리 효과를 향상시키기 위해 더 큰 집중이 필요할 것이다.
 
-research.ILLUMINATOR.name=동굴 조광기
+research.ILLUMINATOR.name=동굴 조명기
 astralsorcery.journal.ILLUMINATOR.1.text=발광석과 아쿠아마린으로 만든 가루의 빛을 비추는 특성을 이용하여, 이러한 특성을 대규모로 이용하는 장치를 만들 수 있는 것은 시간문제였다. 그것은 락 크리스탈을 이용하여 발광석과 아쿠아마린이 발산하는 스파크를 대폭 증폭시켜, 무한히 빛을 남길 수 있는 작은 노란색의 플레어로 만들어 준다. 이 플레어들은 단단한 물체를 통과하고 서로 밀어낼 수 있어, 형성되는 대로 균일하게 공간에 배치할 수 있다.
-astralsorcery.journal.ILLUMINATOR.3.text=동굴 조광기는 기기 아래에 위치한 빛이 없고 개방된 공간에 이러한 플레어를 형성한다. 즉, 그것은 땅위에 있는 동안 깊이 묻혀져 있는 터널을 밝힐 수 있다는 것이다. 형성 과정은 느리지만, 그것의 반경은 이 장치로부터 거리를 확장한다. 동굴 조광기는 또한 채굴과 건축에 의해 만들어진 새로 형성된 빈 공간에 적응하여, 광부와 동굴 탐험가에게 없어서는 안 될 것으로 만든다.<NL>동굴 조광기는 밤하늘이 눈에 보이는 곳을 필요로 한다.
+astralsorcery.journal.ILLUMINATOR.3.text=동굴 조명기는 기기 아래에 위치한 빛이 없고 개방된 공간에 이러한 플레어를 형성한다. 즉, 그것은 땅위에 있는 동안 깊이 묻혀져 있는 터널을 밝힐 수 있다는 것이다. 형성 과정은 느리지만, 그것의 반경은 이 장치로부터 거리를 확장한다. 동굴 조명기는 또한 채굴과 건축에 의해 만들어진 새로 형성된 빈 공간에 적응하여, 광부와 동굴 탐험가에게 없어서는 안 될 것으로 만든다.<NL>동굴 조명기는 밤하늘이 눈에 보이는 곳을 필요로 한다.
 
 research.ATT_PLAYER.name=동조
 astralsorcery.journal.ATT_PLAYER.1.text=별빛과 액체 별빛 으로 물건을 만드는 것은 괜찮지만, 별빛의 스펙트럼의 중요한 부분은 소홀히 하는 것 같다. 여러 개성있는 별들의 별빛과 함께, 특정한 별자리들에 의해 발산되는 빛은 그 주변 환경과 빛에 접촉하는 사람들에게 훨씬 더 뚜렷한 영향을 미친다. 한 별자리의 힘은 임의의 방향으로 사물을 밀어내는 것처럼 보이며, 다른 빛은 대신 큰 힘을 준다.
@@ -296,8 +296,8 @@ astralsorcery.journal.LENS.1.text=단순히 별빛을 소스에서 해당 위치
 astralsorcery.journal.LENS.3.text=장거리에서 계속해서 빛을 다른 방향으로 이동시키는 것은 빛의 손실을 가져온다. 빛이 더 멀리 이동할수록, 각 렌즈가 손실을 입히기 때문에 더 약해질 것이다.<NL>이 불안한 빛을 리디렉션할 수 있는 렌즈의 대부분을 크리스탈이 차지하기 때문에, 크리스탈이 클수록 한번에 만들 수 있는 렌즈가 많아진다. 매우 불순한 크리스탈은 가루와 그것의 내부에 가지고 있는 다른 물질들에 의해 지나가는 별빛을 거의 막을 것이다.
 astralsorcery.journal.LENS.4.text=렌즈에 연마도의 품질은 전송되는 빛의 빛줄기가 얼마나 집중되는지를 결정하여 손실을 더욱 줄일 것이다.<NL>기본적인 물리적 성질에 의해 조준된 렌즈는 빛을 한 방향으로만 유도할 수 있지만, 여러 방향에서 별빛을 받아들일 수도 있다. 나가는 별빛을 목표로 하는 곳이라면, 렌즈가 회전하여 그곳으로 향하게 될 것이다.<NL>분명히, 현재로서는, 성공적으로 전송하기 위해서는 깨끗한 시야가 필요하다.
 
-research.STARLIGHT_NETWORK.name=Focused Starlight
-astralsorcery.journal.STARLIGHT_NETWORK.1.text=Having iron shimmer in a blue color is nice and all, but these focused beams of Starlight are more useful than that.<NL>More specifically, as these beams are a focused form of Starlight, the many devices, rituals, and altars that need to collect Starlight by themselves will benefit from a more steady and gathered amount of Starlight than they could gather on their own, improving their performance.
+research.STARLIGHT_NETWORK.name=별빛 집중
+astralsorcery.journal.STARLIGHT_NETWORK.1.text=철이 푸르게 어른거리는 것은 좋지만, 별빛의 집중된 빔이 더 유용합니다.<NL>구체적으로, 빔이 집중된 형태의 별빛인 만큼 별빛을 스스로 수집해야 하는 많은 장치, 의식, 제단 등은 스스로 모으는 것보다 더 안정된 별빛으로부터 성능을 향상시킬 수 있을 것입니다.
 
 research.LENSES_EFFECTS.name=Colored Lenses
 astralsorcery.journal.LENSES_EFFECTS.1.text=Starlight itself seems to have a vast spectrum of underlying effects beyond the specific energies of the Constellation that created it. Under normal circumstances, those balance each other and form almost neutral light.<NL>Filtering this light to discard parts of this spectrum, allowing only the light to pass that grants a desired aspect could have many uses.
@@ -319,7 +319,7 @@ research.SHIFT_STAR.name=변화의 별
 astralsorcery.journal.SHIFT_STAR.1.text=별자리에 동조하는 것은 상당한 이점을 제공하지만, 궁극적으로 몸 안에서 제한된 별빛 에너지는 때때로 별자리의 힘을 바꾸거나 그것의 확장을 바꾸기를 원한다. 이 동조된 공명에 방해를 주려면 외부의 집중을 필요로 한다.<NL>이 집중에 사용되는 촉매는, 그 내부에 마법 에너지를 가지고 있고, 사용하는 과정에서 파괴될 것이지만, 사용자들의 타고난 힘을 모든것을 새로 시작할 수 있는 자연적인 무질서하고 약화된 상태로 돌아가게 될 것이다.
 
 research.STARMETAL_ORE.name=철 변환
-astralsorcery.journal.STARMETAL_ORE.1.text=별빛의 집중 광선은 예브게 보이는 것 외에 다른 용도가 있을 가능성이 있으며, 직접적으로 월드에 영향을 미친다. 강한 소스에서 나오는 연결 도구를 사용하여 빛을 철광석 블록에 직접 집중시키는 것은 이것을 시험하기에 충분할 것이다. 성지에 보관되어 있는 고대의 콜렉터 크리스탈을 하늘로 가는 길을 닦는 것은 그 근원을 제공한다.<NL>집중된 빛에 대한 철 광석의 반응은 충분한 시간이 지나면 보일 것이다...
+astralsorcery.journal.STARMETAL_ORE.1.text=별빛의 집중 광선은 예브게 보이는 것 외에 다른 용도가 있을 가능성이 있으며, 직접적으로 월드에 영향을 미친다. 강한 소스에서 나오는 연결 도구를 사용하여 빛을 철광석 블록에 직접 집중시키는 것은 이것을 시험하기에 충분할 것이다. 성소에 보관되어 있는 고대의 콜렉터 크리스탈을 하늘로 가는 길을 닦는 것은 그 근원을 제공한다.<NL>집중된 빛에 대한 철 광석의 반응은 충분한 시간이 지나면 보일 것이다...
 
 research.TRANSMUTATION_ORES.name=Block Transmutation
 astralsorcery.journal.TRANSMUTATION_ORES.1.text=Based on the results of the Iron Ore, other blocks could also undergo transmutations as well. The Astral Tome itself seems to be providing hints to other possibilities all on its own, though you have no idea where the information is coming from.<NL>Whether all of these transmutations result in a favorable exchange is another story...
@@ -438,27 +438,27 @@ research.ATT_TRAIT.name=Enhanced Crystal Attunement
 astralsorcery.journal.ATT_TRAIT.1.text=Your earlier suspicions concerning the Faint Constellations proved true, their light is too weak to fuel a ritual or even a full crystal Attunement. The spectrum of their light, however, leads you to believe that modification of existing Attunements may be possible.<NL>By ensuring the desired Faint Constellation is in the sky and setting the relays in the correct space, the Attunement Altar will react to their power.
 astralsorcery.journal.ATT_TRAIT.2.text=By placing an already Attuned crystal into the Attunement Altar, the Starlight of the Faint Constellation will alter the properties of the Attuned crystal, modifying the effects of rituals using that crystal.<NL>Additional information about the traits that can be applied have been added to the Faint Constellations in the Constellations tab.
 
-research.ENH_SHIFTING_STAR.name=Irradiant Star
-astralsorcery.journal.ENH_SHIFTING_STAR.1.text=The problem with the Shifting Star is that it purges all attuned starlight from the body.<NL>By focusing the energies of the Shifting Star into alignment with one of the Bright Constellations, this loss can be mitigated as the resonance is shifted to a new root to match the Star used. This allows gathered starlight to be directed via meditation into new perk resonances without having to start over from nothing.
+research.ENH_SHIFTING_STAR.name=눈부신 별
+astralsorcery.journal.ENH_SHIFTING_STAR.1.text=변화의 별의 문제는 그것이 신체에 동조된 모든 별빛을 제거한다는 점입니다.<NL>변화의 별의 에너지를 밝은 별자리 하나와 일직선으로 집중시킴으로써 공명이 된 별과 일치하도록 새로운 근원으로 이동함에 따라 이 손실을 완화시킬 수 있습니다. 이것은 수집된 별빛을 명상을 통해 무에서 다시 시작할 필요 없이 새로운 특성의 공명을 유도할 수 있게 합니다.
 
 research.RESONATOR_AREA_SIZE.name=도믹 공명기
 astralsorcery.journal.RESONATOR_AREA_SIZE.1.text=With further alterations, the Resonator can be altered to show starlight displacement. This manifests in an ethereal field becoming visible while holding this new Resonator, not entirely unlike light through a soap bubble, that shows how far the natural starlight distributions are disturbed by buildings or rituals that channel or alter starlight.<NL>Shift-right-clicking still cycles through the modes, as before.
 
-research.ATT_PERKS_SEAL.name=Perk Sealing
-astralsorcery.journal.ATT_PERKS_SEAL.1.text=While the Irradiant Star is a major improvement in allowing for redirection of the infused starlight within the body, sometimes it's not enough to simply route the limited starlight flows around certain resonations. To that end, a Sealing Sigil can be used to "mask" or otherwise retard certain effects, acting as a removable "off-switch" or bridge over an effect not desired at that moment.
+research.ATT_PERKS_SEAL.name=특성 봉인
+astralsorcery.journal.ATT_PERKS_SEAL.1.text=눈부신 별은 몸 안에 주입된 별빛을 리디렉션할 수 있게 해주는 주요 향상이지만, 때로는 제한된 별빛의 흐름을 특정 공명 주위에 단순히 경로로 전달하는 것만으로는 충분하지 않을 때도 있습니다. 이를 위해 봉인 인장은 "마스크"에 사용되거나 특정 효과를 지연시키는 데 사용될 수 있으며, 이 순간에는 원하지 않는 효과에 대한 분리 가능한 "오프 스위치" 또는 다리 역할을 합니다.
 
-research.KNOWLEDGE_FRAGMENT.name=Shooting Stars
-astralsorcery.journal.KNOWLEDGE_FRAGMENT.1.text=Occasionally, shooting stars can be seen falling from above. Recovering whatever is left after impact might be of value to a scholar of the stars.
+research.KNOWLEDGE_FRAGMENT.name=유성
+astralsorcery.journal.KNOWLEDGE_FRAGMENT.1.text=때떄로, 위에서 떨어지는 별똥별을 볼 수 있습니다. 충돌 후에 남은 것을 회수하는 것은 별의 학자에게 가치가 있을 수 있습니다.
 
 research.ATT_PERK_GEMS.name=Dynamism Gems
 astralsorcery.journal.ATT_PERK_GEMS.1.text=The problem with trying to store starlight power in a crystal is that it rapidly drains away as light. By doping the crystal with the proper catalyst, storing starlight is possible in a way. Growing a Rock Crystal with glowstone powder in liquid starlight results in a crystal cluster that internally retains the energy gathered during the growth process.<NL>For the same reason that the energy is able to be stored, it is equally difficult to directly access.
 astralsorcery.journal.ATT_PERK_GEMS.2.text=The starlight captured can still influence nearby sympathetic frequencies, proving to be the key to access the stored power.<NL>Meditating on one of these gems while pressed to flesh results in it joining the existing magical circuits formed from the energies of personal attunement, further enhancing the natural abilities of the attuned. While in such a circuit, the gem is bound to the flesh.
 
-astralsorcery.journal.recipe.starlight=Needs light shining at it when crafting
-astralsorcery.journal.recipe.nighttime=May only be performed during nighttime
-astralsorcery.journal.recipe.constellation=Requires focus to Constellation %s
-astralsorcery.journal.recipe.upgrade=Upgrades the altar to the next tier
-astralsorcery.journal.recipe.attunement=Attunes the crystal to: %s
+astralsorcery.journal.recipe.starlight=제작할 때 빛을 비춰야 합니다
+astralsorcery.journal.recipe.nighttime=밤 동안에만 수행할 수 있습니다
+astralsorcery.journal.recipe.constellation=별자리 %s를 집중해야 합니다
+astralsorcery.journal.recipe.upgrade=제단을 다음 단계로 업그레이드
+astralsorcery.journal.recipe.attunement=크리스탈 동조: %s
 astralsorcery.journal.recipe.removalinfo=§c이 제작법은 현재 모드팩에서 제거되었습니다! 어떻게 만들 수 있는지 다른 정보 출처를 확인하세요!
 astralsorcery.journal.recipe.amt.desc=별빛 필요:
 
@@ -470,9 +470,9 @@ astralsorcery.journal.recipe.amt.high=조금 많음
 astralsorcery.journal.recipe.amt.highest=많음
 astralsorcery.journal.recipe.amt.toomuch=§c매우 많음
 
-item.itemsextant.target.mountain_shrine.name=고대의 성지
-item.itemsextant.target.desert_shrine.name=사막 성지
-item.itemsextant.target.small_shrine.name=작은 성지
+item.itemsextant.target.mountain_shrine.name=고대의 성소
+item.itemsextant.target.desert_shrine.name=사막 성소
+item.itemsextant.target.small_shrine.name=작은 성소
 item.itemsextant.target.village.name=마을
 item.itemsextant.target.temple.name=신전
 item.itemsextant.target.oceanmonument.name=바다 신전
@@ -500,11 +500,11 @@ entity.EntityAquamarine.name=아쿠아마린
 entity.EntityCrystal.name=크리스탈
 entity.EntityFlare.name=플레어
 entity.EntityStarburst.name=스타 버스트
-entity.EntityIlluminationSpark.name=Illumination Spark
+entity.EntityIlluminationSpark.name=조명 스파크
 entity.EntityCrystalTool.name=크리스탈 도구
 entity.EntitySpectralTool.name=스펙트럴 도구
 entity.EntityLiquidSpark.name=액체 스파크
-entity.EntityShootingStar.name=Shooting Star
+entity.EntityShootingStar.name=유성
 
 item.itemcraftingcomponent.aquamarine.name=아쿠아마린
 item.itemcraftingcomponent.starmetal_ingot.name=스타메달 주괴
@@ -536,11 +536,11 @@ item.itemarchitectwand.name=Formation Wand
 item.itemexchangewand.name=Conversion Wand
 item.itemgrapplewand.name=Impulsion Wand
 item.itemshiftingstar.name=변화의 별
-item.itemshiftingstar.enhanced.name=Irradiant Star
+item.itemshiftingstar.enhanced.name=눈부신 별
 item.iteminfusedglass.name=Infused Glass
 item.iteminfusedglass.active.name=Engraved Glass
 item.itemknowledgeshare.name=Scroll of Written Expertise
-item.itemusabledust.illumination.name=Illumination Powder
+item.itemusabledust.illumination.name=조명 가루
 item.itemusabledust.nocturnal.name=어둠의 가루
 item.itemcape.name=Mantle of Stars
 item.itemskyresonator.name=포식 공명기
@@ -596,7 +596,7 @@ tile.blockstructural.attunement_altar_struct.name=동조 제단
 tile.blockattunementrelay.name=스펙트럴 중계기
 tile.blockritualpedestal.name=의식 받침대
 tile.blockflarelight.name=Volatile Flare
-tile.blockworldilluminator.name=동굴 조광기
+tile.blockworldilluminator.name=동굴 조명기
 tile.blockblackmarble.raw.name=그을은 대리석
 tile.blockblackmarble.bricks.name=그을은 대리석 벽돌
 tile.blockblackmarble.pillar.name=그을은 대리석 기둥
@@ -636,7 +636,7 @@ tile.blockstarlightinfuser.name=별빛 주입기
 tile.blocktreebeacon.name=Tree Beacon
 tile.blockrituallink.name=의식 앵커
 tile.blocktranslucentblock.name=반투명 블록
-tile.blockmapdrawingtable.name=Stellar Refraction Table
+tile.blockmapdrawingtable.name=항성 굴절표
 tile.blockcelestialgateway.name=천상의 게이트웨이
 tile.blockchalice.name=Containment Chalice
 tile.blockfountain.name=Evershifting Fountain
@@ -654,7 +654,7 @@ tile.blockgemcrystals.stage_2_night.name=보석 크리스탈 클러스터
 
 tile.blockgeolosyssamplecluster.name=락 크리스탈 샘플
 
-gui.journal.cst.enchantments=Refraction Table:
+gui.journal.cst.enchantments=굴절표:
 gui.journal.cst.ritual=의식 효과:
 gui.journal.cst.ritual.trait=Ritual Trait Modifier:
 gui.journal.cst.capeeffect=맨틀 효과:
@@ -774,7 +774,7 @@ perk.category.key.name=키 특성
 perk.category.epiphany.name=공현 특성
 perk.category.focus.name=포커스 특성
 
-perk.astralsorcery.compat.thaumcraft=Astral Sorcery: Thaumcraft Compat
+perk.astralsorcery.compat.thaumcraft=아스트랄 소서리: Thaumcraft Compat
 
 perk.reader.infostar=통계
 perk.reader.gui=특성 통계
@@ -1090,22 +1090,22 @@ perk.astralsorcery.key_void_trash.desc.2=Occasionally yield valuable ore when vo
 perk.astralsorcery.key_rem_badeffects.name=Cleansing
 perk.astralsorcery.key_rem_badeffects.desc=Regenerating life may remove a negative status effect.
 
-perk.astralsorcery.aevitas.name=Root: Aevitas
+perk.astralsorcery.aevitas.name=근원: Aevitas
 perk.astralsorcery.aevitas.desc=Gain experience by building things
-perk.astralsorcery.vicio.name=Root: Vicio
+perk.astralsorcery.vicio.name=근원: Vicio
 perk.astralsorcery.vicio.desc=Gain experience by traveling the world
-perk.astralsorcery.evorsio.name=Root: Evorsio
+perk.astralsorcery.evorsio.name=근원: Evorsio
 perk.astralsorcery.evorsio.desc=Gain experience by breaking blocks
-perk.astralsorcery.discidia.name=Root: Discidia
+perk.astralsorcery.discidia.name=근원: Discidia
 perk.astralsorcery.discidia.desc=Gain experience by dealing damage
-perk.astralsorcery.armara.name=Root: Armara
+perk.astralsorcery.armara.name=근원: Armara
 perk.astralsorcery.armara.desc=Gain experience by taking damage
 
 constellation.noInformation=여기는 아무것도 없다.
 
-knowledge.astralsorcery.fragment.discovery.ancientshrine.name=고대 성지 위치
+knowledge.astralsorcery.fragment.discovery.ancientshrine.name=고대 성소 위치
 knowledge.astralsorcery.fragment.discovery.ancientshrine.bookmark=위치
-knowledge.astralsorcery.fragment.discovery.ancientshrine.description=콜렉터 크리스탈을 포함하는 고대 성지은 보통 매우 춥거나, 매우 덥거나, 매우 산이 많은 지대에 위치하지만, 사원을 지을 수 있는 충분한 지면만 존재하면 된다. 이 크리스탈들은 항상 다섯 개의 밝은 별자리 중 하나에 동조될 것이다.
+knowledge.astralsorcery.fragment.discovery.ancientshrine.description=콜렉터 크리스탈을 포함하는 고대 성소는 보통 매우 춥거나, 매우 덥거나, 매우 산이 많은 지대에 위치하지만, 사원을 지을 수 있는 충분한 지면만 존재하면 된다. 이 크리스탈들은 항상 다섯 개의 밝은 별자리 중 하나에 동조될 것이다.
 
 knowledge.astralsorcery.fragment.discovery.resowand.name=공명 위치
 knowledge.astralsorcery.fragment.discovery.resowand.bookmark=크리스탈 위치.
@@ -1135,9 +1135,9 @@ knowledge.astralsorcery.fragment.exploration.crystaltools.name=도구 상태
 knowledge.astralsorcery.fragment.exploration.crystaltools.bookmark=훌륭한 마감
 knowledge.astralsorcery.fragment.exploration.crystaltools.description=크리스탈 도구는 세 가지 상태가 성능을 좌우하는 구조 때문에 대부분의 일반적인 도구와 다르게 작동한다.<NL>순도 - 연마 시 순도가 높은 도구의 크기가 작아진다.<NL>크기 - 도구의 내구성. 갈면 잃고, 액체 별빛에 담궈 회복한다. 도구의 크기가 0이면 도구는 부셔진다.<NL>예리함 - 도구의 효율을 결정하며, 샤프닝을 통해 회복할 수 있다. 칼과 매우 흡사하게, 그 도구는 이미 어느 정도 둔화될 때보다 매우 날카로울 때 더 빨리 둔화될 것이다. "부셔지지않는" 인챈트는 컷팅 손실을 감소시킨다.
 
-knowledge.astralsorcery.fragment.exploration.grindstone.name=Weapons and Ores
-knowledge.astralsorcery.fragment.exploration.grindstone.bookmark=Additional use
-knowledge.astralsorcery.fragment.exploration.grindstone.description=In addition to shaping crystals, a Grindstone used to grind up an ore may sometimes generate more dust than is needed for a single ingot smelting.<NL>Swords can also be sharpened on a Grindstone, increasing the damage. The increase is higher for swords that are naturally more damaging, though some worlds may see the degree of improvement to be higher than others.
+knowledge.astralsorcery.fragment.exploration.grindstone.name=무기와 광물
+knowledge.astralsorcery.fragment.exploration.grindstone.bookmark=추가적인 사용법
+knowledge.astralsorcery.fragment.exploration.grindstone.description=크리스탈을 형성하는 것 외에도, 광물을 갈기 위해 사용되는 숫돌은 때때로 철 하나를 제련하는 것보다 더 많은 먼지를 발생시킬 수 있습니다.<NL>숫돌에 검을 갈아서 데미지를 증가시킬 수 있습니다. 일부 월드는 증가의 정도가 다른 월드보다 높다고 볼 수 있지만, 이러한 증가는 자연적으로 더 큰 피해를 주는 검의 경우 더 높습니다.
 
 knowledge.astralsorcery.fragment.misc.cannibalism.name=Cannibalism and Reach
 knowledge.astralsorcery.fragment.misc.cannibalism.bookmark=Cannibalism
