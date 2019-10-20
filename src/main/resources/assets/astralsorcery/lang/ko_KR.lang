@@ -276,11 +276,11 @@ research.TOOL_WANDS.name=Active Channeling
 astralsorcery.journal.TOOL_WANDS.1.text=The attempt to channel Starlight energies with your bare hands failed, and brought forth nothing but maybe a small flash of light.<NL>With the properties of Stardust, constructing wands that can channel this energy to produce more orderly results should be possible. Placing blocks into a straight line, or replacing blocks with others, should be easy enough for a properly channeled wand.
 astralsorcery.journal.TOOL_WANDS.3.text=Pick the block to be used for placement or replacement by right-clicking a block of that type while holding Shift. Blocks needed will be drawn from the wielder’s inventory.<NL>Upon channeling some of this ethereal energy into the wand, it leaves the wielder a bit drained afterwards. Utilizing the alignment gauge when using those kinds of gadgets may be helpful to avoid an overload or short-circuit of some type...
 
-research.GRAPPLE_WAND.name=Impulsion Wand
-astralsorcery.journal.GRAPPLE_WAND.1.text=Enderpearls would be very useful if they weren't so hard to obtain, weren't so easily used up, and self-damaging upon use.<NL>Thanks to your knowledge about the strange patterns of Starlight energy, a wand can be created to channel these energies through Enderpearls to provide a safer means of transportation.<NL>In contrast to the pearls, though, the wand has only limited range and pulls its user towards whatever it finds rather than providing an instant teleportation.
+research.GRAPPLE_WAND.name=충동의 지팡이
+astralsorcery.journal.GRAPPLE_WAND.1.text=엔더 진주는 구하기 쉽지 않고,사용시 낙사 피해를 입는 것이 싫을 경우 매우 유용할 것이다.<NL>별빛 에너지 패턴에 대한 당신의 지식 덕분에, 더 안전한 이동수단을 제공하기 위해 엔더진주를 통해 이러한 에너지를 전달할 수 있는 지팡이를 만들 수 있었다.<NL>그러나 진주와 대조적으로, 지팡이는 제한된 범위만 가지고 있고, 즉각적인 순간이동을 제공하기 보다는 자신이 도착한 모든 곳을 향해 사용자를 끌어 당긴다.
 
-research.RIT_PEDESTAL.name=Ritual Pedestal
-astralsorcery.journal.RIT_PEDESTAL.1.text=While an Attuned crystal can almost manifest the power of a constellation directly, a specialized pedestal is needed to focus the collected Starlight.<NL>As manifesting received starlight power is stressful, and Fractures will occur over time. The pedestal having an internal Liquid Starlight reservoir helps dissipate the stressful energies, but even it has limits, and crystals will need to be manually soaked in Liquid Starlight to repair if Fracturing begins accruing.
+research.RIT_PEDESTAL.name=의식 받침대
+astralsorcery.journal.RIT_PEDESTAL.1.text=동조된 크리스탈은 별자리의 힘을 거의 직접적으로 나타낼 수 있지만, 수집된 별빛을 집중시키기 위해서는 전문화된 받침대가 필요하다.<NL>수집된 별빛의 힘은 스트레스를 받기 때문에 시간이 지남에 따라 균열이 일어날 것이다. 내부에 액체 별빛 저장장치가 있는 받침대는 스트레스를 받는 에너지를 분산시키는 데 도움을 주지만, 그것조차도 한계가 있으며, 만약 균열이 발생하기 시작하면 크리스탈은 액체 별빛 안에 직접 담궈야 할 것이다.
 
 research.TELESCOPE.name=천체 망원경
 astralsorcery.journal.TELESCOPE.1.text=이 유리는 좋고 괜찮지만, 항상 가만히 있는 것은 지치게 만들고 좋은 시야를 주지 못한다. 또한 하룻밤에 한 번에 두 개 이상의 별자리를 만드는 것은 어렵기 때문에, 별자리 종이가 보여주는 모든 것을 발견하는 것도 어렵다.<NL>천체 망원경은 이것을 위한 고정장치가 필요할 것이다. 그래야 훨씬 더 쉬운 방법으로 훨씬 더 멀리 떨어져 있는 별과 별자리를 찾아 하늘을 더 깊이 들여다볼 수 있을 것이다.
@@ -534,7 +534,7 @@ item.itemhandtelescope.name=망원경
 item.itemilluminationwand.name=Illumination Wand
 item.itemarchitectwand.name=Formation Wand
 item.itemexchangewand.name=Conversion Wand
-item.itemgrapplewand.name=Impulsion Wand
+item.itemgrapplewand.name=충동의 지팡이
 item.itemshiftingstar.name=변화의 별
 item.itemshiftingstar.enhanced.name=눈부신 별
 item.iteminfusedglass.name=Infused Glass
